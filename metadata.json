@@ -1,0 +1,7 @@
+{
+  "name": "eNagarik Seva",
+  "description": "eNagarik Seva: A modern, user-friendly portal for citizens to submit, track, and manage complaints. Administrators can view, manage, and resolve all submitted complaints through a dedicated dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
